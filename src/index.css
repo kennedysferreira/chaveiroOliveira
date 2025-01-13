@@ -5,3 +5,8 @@
 :root {
   font-family: "Poppins", sans-serif;
 }
+
+html {
+  scroll-behavior: smooth;
+  transition: ease-in 0.3s;
+}
