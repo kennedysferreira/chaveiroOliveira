@@ -117,7 +117,7 @@ export default function App() {
               </div>
             </li>
             <li className="flex gap-5 p-5 bg-[#9DEAB3] rounded-xl">
-              <img className="hidden xl:block" src={openLocker} alt="" />
+              <img className="hidden xl:block" src={openVehicle} alt="" />
               <div className="space-y-4">
                 <h1 className="font-semibold md:text-4xl text-2xl ">Abertura de veículos</h1>
                 <p className="md:text-xl">
@@ -129,7 +129,7 @@ export default function App() {
               </div>
             </li>
             <li className="flex gap-5 p-5 bg-[#F6B4AF] rounded-xl">
-              <img className="hidden xl:block" src={changeAndRepair} alt="" />
+              <img className="hidden xl:block" src={openLocker} alt="" />
               <div className="space-y-4">
                 <h1 className="font-semibold md:text-4xl text-2xl ">Abertura de cofres</h1>
                 <p className="md:text-xl">
@@ -141,7 +141,7 @@ export default function App() {
               </div>
             </li>
             <li className="flex gap-5 p-5 bg-[#EAF475] rounded-xl">
-              <img className="hidden xl:block" src={openVehicle} alt="" />
+              <img className="hidden xl:block" src={changeAndRepair} alt="" />
               <div className="space-y-4">
                 <h1 className="font-semibold md:text-4xl text-2xl ">
                   Troca de fechaduras e reparos
